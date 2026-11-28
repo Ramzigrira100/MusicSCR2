@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X-Ray Mirror</string>
+    <string name="camera_permission_needed">Camera permission is required for live X-Ray tracking.</string>
+    <string name="saved_to_gallery">Saved to Gallery: %1$s</string>
+    <string name="save_failed">Could not save file: %1$s</string>
+    <string name="share_title">Share X-Ray Mirror capture</string>
+</resources>

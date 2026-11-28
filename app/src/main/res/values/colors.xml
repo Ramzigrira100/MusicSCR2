@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="xr_bg">#090C13</color>
+    <color name="xr_panel">#141926</color>
+    <color name="xr_accent">#7FD1FF</color>
+    <color name="xr_fg">#EEF1F8</color>
+</resources>

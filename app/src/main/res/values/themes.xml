@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.XRayMirror" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/xr_accent</item>
+        <item name="colorPrimaryVariant">@color/xr_panel</item>
+        <item name="colorOnPrimary">@color/xr_bg</item>
+        <item name="android:windowBackground">@color/xr_bg</item>
+        <item name="android:statusBarColor">@color/xr_bg</item>
+        <item name="android:navigationBarColor">@color/xr_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
